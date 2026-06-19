@@ -1,5 +1,3 @@
-Aquí tienes el contenido adaptado a texto completamente plano y limpio, listo para que lo pegues:
-
 Despertador Inteligente IoT para Sueño Ligero
 
 Este proyecto de Internet de las Cosas utiliza una Raspberry Pi Pico, un acelerómetro y un buzzer para diseñar un despertador inteligente capaz de despertarte exclusivamente durante tu fase de sueño ligero, garantizando que empieces el día mucho más descansado.
